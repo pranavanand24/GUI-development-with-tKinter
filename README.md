@@ -1,4 +1,4 @@
-# Python-GUI-with-tKinter
+# GUI development with tKinter in Python
 
 Getting started with Python tkinter GUI
 
