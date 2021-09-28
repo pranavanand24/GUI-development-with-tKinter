@@ -1,5 +1,6 @@
-# Python-GUI-with-TKinter
-Getting started with Python Tkinter GUI
+# Python-GUI-with-tKinter
+
+Getting started with Python tkinter GUI
 
 Python offers multiple options for developing GUI (Graphical User Interface).
 Out of all the GUI methods, tkinter is most commonly used method. 
